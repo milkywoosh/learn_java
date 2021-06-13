@@ -1,0 +1,16 @@
+if you want to run directly from Terminal:
+
+1. firstly you must create "Document.class"  --> file that can be executed in Java Virtual Machine
+2. How?? follow this ->  Javac Document.java, it generate "Document.class" in the same folder
+3. Now, you can run "Document.class" file directly on terminal.
+4. How?? follow this ->  Java Document
+5. Step 4 will run your program(Document.class) directly in terminal.
+
+etc:
+Javac Animal.java  --> result: Animal.class
+run in terminal: go to folder which contain "Animal.class"
+then type -->   Java Animal
+
+Done!
+
+
